@@ -5,5 +5,5 @@ MVP proposto pela Unifeso NAF
 
 
 
-- [Acesse a pagina inicial do projeto, online](https://Aosil803.github.io/ProjetoMVP){:target="_blank"}
+- [Acesse a pagina inicial do projeto, online](https://Aosil803.github.io/ProjetoMVP)
 
